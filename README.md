@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform and Compose Multiplatform**
 
-- 👨‍💻 All of my projects are available at [https://jorge-android-dev.web.app/](https://jorge-android-dev.web.app/)
+- 👨‍💻 All about me is available at [https://jorge-android-dev.web.app/](https://jorge-android-dev.web.app/)
 
 - 📫 How to reach me **jorgito.avc03@gmail.com**
 
