@@ -20,7 +20,7 @@ Currently exploring **Kotlin Multiplatform** and **Compose Multiplatform** to bu
 - 🌱 Learning: Kotlin Multiplatform, Compose Multiplatform, advanced testing
 - 👨‍💻 Portfolio: [jorge-android-dev.web.app](https://jorge-android-dev.web.app/)
 - 📫 Email: **jorgito.avc03@gmail.com**
-- 📍 Location: Miami / Hialeah, FL (Open to remote US opportunities!)
+- 📍 Location: Miami, FL (Open to remote US opportunities!)
 
 ---
 
