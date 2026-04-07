@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=Jorge%20Adrián%20Valdés&fontSize=52&animation=fadeIn&fontColor=ffffff&desc=Android%20Engineer%20%7C%20Kotlin%20%7C%20Miami%2C%20FL&descSize=18&descAlignY=75" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/130202864?v=4" />
 </div>
 
 <div align="center">
