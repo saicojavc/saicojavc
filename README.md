@@ -21,6 +21,10 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.saico.fitlog" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Remote-00C853?style=for-the-badge&logo=googlemeet&logoColor=white" />
 </div>
 
@@ -38,7 +42,8 @@ val jorge = AndroidEngineer(
     focus       = listOf("Jetpack Compose", "Clean Architecture", "KMP"),
     available   = RemoteWork.WORLDWIDE,
     currentWork = listOf("ADA LifeOS", "FitLog"),
-    nextGoal    = "Play Store launch — FitLog v1.1"
+    published   = listOf("FitLog — Live on Google Play ✓"),
+    nextGoal    = "ADA LifeOS — Play Store launch"
 )
 ```
 
@@ -116,6 +121,8 @@ Offline-first fitness tracker with GPS session engine, MET-based calorie calcula
 **Stack:** `Kotlin 2.1` `Compose` `Room` `Firebase` `Foreground Services`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saicojavc)
+&nbsp;
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.saico.fitlog)
 
 </td>
 </tr>
