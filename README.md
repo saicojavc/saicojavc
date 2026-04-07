@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/130202864?v=4" />
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5CC&center=true&vCenter=true&width=600&lines=Building+polished+Android+experiences;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Architecture;Offline-first+%7C+MVVM+%7C+Modular+Design;Exploring+Kotlin+Multiplatform;Miami-based+%E2%80%94+remote-ready+worldwide" alt="Typing SVG" />
